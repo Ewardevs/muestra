@@ -1,26 +1,26 @@
 [
     {
         "name": "img1",
-        "url": "/images/galery-img/image1.png"
+        "url": "./images/galery-img/image1.png"
     },
     {
         "name": "img2",
-        "url": "/images/galery-img/image2.png"
+        "url": "./images/galery-img/image2.png"
     },
     {
         "name": "img3",
-        "url": "/images/galery-img/image3.png"
+        "url": "./images/galery-img/image3.png"
     },
     {
         "name": "img4",
-        "url": "/images/galery-img/image4.png"
+        "url": "./images/galery-img/image4.png"
     },
     {
         "name": "img5",
-        "url": "/images/galery-img/image5.png"
+        "url": "./images/galery-img/image5.png"
     },
     {
         "name": "img6",
-        "url": "/images/galery-img/image6.png"
+        "url": "./images/galery-img/image6.png"
     }
 ]
