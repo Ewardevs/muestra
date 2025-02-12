@@ -16,7 +16,7 @@ export default function WhatsAppIcon() {
           }}
         >
           <a
-            href="https://wa.me/1234567890"  // Cambia con tu número de WhatsApp
+            href="https://wa.me/+595981194444"  // Cambia con tu número de WhatsApp
             target="_blank"
             rel="noopener noreferrer"
             className="sm:hidden inline-flex items-center px-4 py-4 bg-green-600 text-white rounded-full hover:bg-green-700 transition duration-300"

@@ -2,7 +2,7 @@ import React from 'react'
 import { Phone } from "lucide-react"
 
 export default function Hero() {
-    const whatsappNumber = "1234567890"
+    const whatsappNumber = "+595981194444"
     const whatsappMessage = "Hola, me interesa contratar tus servicios"
     const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`
     return (
