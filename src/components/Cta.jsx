@@ -9,7 +9,7 @@ export default function Cta() {
                 <p className="text-xl text-gray-300 mb-8">Contáctanos ahora para reservar tu fecha</p>
                 <a  
                     id="contact-button"
-                    href="www.example.com"
+                    href="https://wa.me/+595981194444"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mt-8 inline-flex items-center px-6 py-3 bg-green-600 text-white font-semibold text-lg rounded-4xl hover:bg-green-700 transition duration-300"

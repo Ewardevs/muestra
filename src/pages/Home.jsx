@@ -7,15 +7,17 @@ import Videos from '../components/Videos'
 import Cta from '../components/Cta'
 import Footer from '../components/Footer'
 import ContactIcon from '../components/ContactIcon'
+import MusicSection from '../components/MusicSection'
 
 export default function Home() {
     return (
         <div className="min-h-screen bg-black text-white">
-            <Nav/>
+
             <Hero/>
             <Biografia/>
             <Galery/>
             <Videos/>
+            <MusicSection/>
             <Cta/>
             <Footer/>
             <ContactIcon />

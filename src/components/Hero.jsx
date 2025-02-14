@@ -1,5 +1,6 @@
 import React from 'react'
 import { Phone } from "lucide-react"
+import img from "../../public/images/bio-img.png"
 
 export default function Hero() {
     const whatsappNumber = "+595981194444"
@@ -8,8 +9,9 @@ export default function Hero() {
     return (
         <section id="inicio" className="relative h-screen">
             <img
-                src="/placeholder.svg?height=1080&width=1920"
-                className="object-cover"
+                src={img}
+                className="object-cover w-full h-full"
+                alt="Fondo"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent" />
             <div className="absolute inset-0 flex items-center justify-center text-center">
@@ -26,9 +28,10 @@ export default function Hero() {
                         <Phone className="mr-2 h-5 w-5" />
                         Contratar Ahora
                     </a>
-
                 </div>
             </div>
         </section>
+
+
     )
 }
